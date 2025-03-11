@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/mrphoonmoji/Programming/Organised/personal/TD2D/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/mrphoonmoji/Programming/Organised/personal/TD2D/src -isystem /usr/local/Cellar/raylib/5.5/include -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -mmacosx-version-min=13.7 -I/usr/local/Cellar/raylib/5.5/include -o CMakeFiles/TD2D.dir/src/main.cpp.o -c /Users/mrphoonmoji/Programming/Organised/personal/TD2D/src/main.cpp",
+  "file": "/Users/mrphoonmoji/Programming/Organised/personal/TD2D/src/main.cpp",
+  "output": "CMakeFiles/TD2D.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/mrphoonmoji/Programming/Organised/personal/TD2D/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/mrphoonmoji/Programming/Organised/personal/TD2D/src -isystem /usr/local/Cellar/raylib/5.5/include -std=gnu++17 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -mmacosx-version-min=13.7 -I/usr/local/Cellar/raylib/5.5/include -o CMakeFiles/TD2D.dir/src/map.cpp.o -c /Users/mrphoonmoji/Programming/Organised/personal/TD2D/src/map.cpp",
+  "file": "/Users/mrphoonmoji/Programming/Organised/personal/TD2D/src/map.cpp",
+  "output": "CMakeFiles/TD2D.dir/src/map.cpp.o"
+}
+]
